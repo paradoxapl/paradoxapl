@@ -1,4 +1,4 @@
-<img align="center" width="894px" src="https://media.giphy.com/media/X2GAT3LStXoOasyYvg/giphy.gif" alt="coding" />
+<p align="center"><img src="https://media.giphy.com/media/X2GAT3LStXoOasyYvg/giphy.gif" alt="coding" /></p>
 
 <h1 align="center">Hi 👋, I'm Jamie Hall</h1>
 <h3 align="center">A frontend developer from the East Sussex, United Kingdom</h3>
