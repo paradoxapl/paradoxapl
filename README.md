@@ -1,3 +1,5 @@
+<img src="https://imgur.com/jy39eZn" alt="coding" />
+
 <h1 align="center">Hi 👋, I'm Jamie Hall</h1>
 <h3 align="center">A frontend developer from the East Sussex, United Kingdom</h3>
 <h4 align="center">I'm currently working as a Lead Developer for Rule13</h4>
