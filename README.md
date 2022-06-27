@@ -1,4 +1,4 @@
-<img style="width: 100%;" src="https://media.giphy.com/media/X2GAT3LStXoOasyYvg/giphy.gif" alt="coding" />
+<img style="width: 100%;" src="https://tenor.com/view/gif-26069466" alt="coding" />
 
 <h1 align="center">Hi 👋, I'm Jamie Hall</h1>
 <h3 align="center">A frontend developer from the East Sussex, United Kingdom</h3>
