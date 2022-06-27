@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Bearz](https://www.twitter.com/bearznft) & [BeyondNRG](https://beyondnrg.com/)
 
-- 🧑‍💼 Employed at [Rule13](https://www.rule13.com/) as a Lead Developer
+- 🧑‍💼 Employed at [Rule13](https://www.rule13.co.uk/) as a Lead Developer
 
 - 🌱 I’m currently constantly learning **Solidity & ReactJS**
 
