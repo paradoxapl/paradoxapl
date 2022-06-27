@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jamie Hall</h1>
 <h3 align="center">A frontend developer from the East Sussex, United Kingdom</h3>
-<h4 align="center">I'm currently working as a Lead Developer for [Rule13](https://rule13.co.uk/)</h4>
+<h4 align="center">I'm currently working as a Lead Developer for Rule13</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paradoxapl&label=Profile%20views&color=0e75b6&style=flat" alt="paradoxapl" /> </p>
 
 <p align="left"> <a href="https://twitter.com/paradoxapl" target="blank"><img src="https://img.shields.io/twitter/follow/paradoxapl?logo=twitter&style=for-the-badge" alt="paradoxapl" /></a> </p>
 
-- 🔭 I’m currently working on [BEARZNFT](https://www.twitter.com/bearznft) & [BEYONDNRG](https://beyondnrg.com/)
+- 🔭 I’m currently working on [Bearz](https://www.twitter.com/bearznft) & [BeyondNRG](https://beyondnrg.com/)
+
+- 🧑‍💼 Employed at [Rule13](https://www.rule13.com/) as a Lead Developer
 
 - 🌱 I’m currently constantly learning **Solidity & ReactJS**
 
