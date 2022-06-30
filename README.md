@@ -8,19 +8,19 @@
 
 <p align="left"> <a href="https://twitter.com/paradoxapl" target="blank"><img src="https://img.shields.io/twitter/follow/paradoxapl?logo=twitter&style=for-the-badge" alt="paradoxapl" /></a> </p>
 
-- 🔭 I’m currently working on [Bearz](https://www.twitter.com/bearznft) & [BeyondNRG](https://beyondnrg.com/)
+- 🔭 Currently focused on building [Bearz](https://www.twitter.com/bearznft) & [BeyondNRG](https://beyondnrg.com/)
 
-- 🧑‍💼 Employed at [Rule13](https://www.rule13.co.uk/) as a Lead Developer
+- 🧑‍💼 I'm employed at [Rule13](https://www.rule13.co.uk/) as a Lead Developer
 
-- 🌱 I’m currently growing my knowledge in **Solidity & ReactJS**
+- 🌱 I’m currently expanding my knowledge in **Solidity & ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://jamiehall.dev/](https://jamiehall.dev/)
+- 👨‍💻 You can see some of my work at [https://jamiehall.dev/](https://jamiehall.dev/)
 
-- 📫 How to reach me **https://www.twitter.com/paradoxapl/**
+- 📫 The quickest way to reach me is to slide into my DM's **https://www.twitter.com/paradoxapl/**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jamie-hall-07a639173/](https://www.linkedin.com/in/jamie-hall-07a639173/)
+- 📄 Feel free to stalk me! [https://www.linkedin.com/in/jamie-hall-07a639173/](https://www.linkedin.com/in/jamie-hall-07a639173/)
 
-- ⚡ Fun fact **I used to be a professional gamer.**
+- ⚡ Fun fact about me:  **I used to be a professional gamer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
