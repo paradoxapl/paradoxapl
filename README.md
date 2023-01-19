@@ -12,7 +12,7 @@
 
 - 🧑‍💼 I'm employed at [Rule13](https://www.rule13.co.uk/) as a Lead Developer
 
-- 🌱 I’m currently expanding my knowledge in **Solidity & ReactJS**
+- 🌱 I’m currently expanding my knowledge in **React**
 
 - 👨‍💻 You can see some of my work at [https://jamiehall.dev/](https://jamiehall.dev/)
 
