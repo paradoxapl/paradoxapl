@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/paradoxapl" target="blank"><img src="https://img.shields.io/twitter/follow/paradoxapl?logo=twitter&style=for-the-badge" alt="paradoxapl" /></a> </p>
 
-- 🔭 Currently focused on building [Bearz](https://www.twitter.com/bearznft) & [BeyondNRG](https://beyondnrg.com/)
+- 🔭 Currently focused on building [Bearz](https://www.twitter.com/bearznft), [BeyondNRG](https://beyondnrg.com/) [VapeJuice](https://vapejuice.co.uk/), [Prohibition](https://prohibition.co.uk) & [Flooring King](https://flooringking.co.uk)
 
 - 🧑‍💼 I'm employed at [Rule13](https://www.rule13.co.uk/) as a Lead Developer
 
