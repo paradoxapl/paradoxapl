@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Jamie Hall</h1>
 <h3 align="center">A web developer from the East Sussex, United Kingdom</h3>
-<h4 align="center">I'm currently working as a Lead Developer for Rule13</h4>
+<h4 align="center">I'm currently working as a Lead Developer for Prohibition & Director at Flooring King</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paradoxapl&label=Profile%20views&color=0e75b6&style=flat" alt="paradoxapl" /> </p>
 
